@@ -4,9 +4,9 @@
 ## 專案準備及提交
 1. fork 此 repo 到自己的 Github ，並 clone 到自己電腦
 2. 將 `master` 保護起來，禁止推 master branch
-  - 到自己的 repo > Settings > Branches > Branch protection rules > add rule 設定
+    - 到自己的 repo > Settings > Branches > Branch protection rules > add rule 設定
 3. 每個功能都開一個 branch 進行
-  - 舉例： `feature/Complete_task_add_checked`
+    - 舉例： `feature/Complete_task_add_checked`
 4. 完成後，發 PR 到自己的 repo 並且自己 merge 進 `master`
 
 ## 任務: 完成 To Do List 功能
