@@ -11,12 +11,5 @@ document.addEventListener('DOMContentLoaded', function () {
         li_span[i].parentNode.remove()
       }
     }
-
-    // if (li_span.classList.contains("checked")){
-    //   console.log(li_span.parentNode)
-    //   // li_span.parentNode.remove()
-    // }
-    
-
   })
 })
